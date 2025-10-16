@@ -8,6 +8,7 @@ DSA in C++ Leetcode
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hassan-980/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/hassan-980/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hassan-980/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hassan-980/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hassan-980/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hassan-980/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -17,6 +18,7 @@ DSA in C++ Leetcode
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hassan-980/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/hassan-980/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hassan-980/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +28,7 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/hassan-980/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hassan-980/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -37,6 +40,7 @@ DSA in C++ Leetcode
 ## Math
 |  |
 | ------- |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hassan-980/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
