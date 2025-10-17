@@ -45,10 +45,12 @@ DSA in C++ Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hassan-980/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hassan-980/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
@@ -57,11 +59,13 @@ DSA in C++ Leetcode
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hassan-980/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hassan-980/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hassan-980/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sorting
 |  |
 | ------- |
