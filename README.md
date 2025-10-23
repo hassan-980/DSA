@@ -47,6 +47,7 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hassan-980/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hassan-980/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
@@ -61,6 +62,7 @@ DSA in C++ Leetcode
 ## Combinatorics
 |  |
 | ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hassan-980/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
@@ -73,6 +75,7 @@ DSA in C++ Leetcode
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hassan-980/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hassan-980/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hassan-980/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hassan-980/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -83,8 +86,13 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hassan-980/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hassan-980/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hassan-980/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hassan-980/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
