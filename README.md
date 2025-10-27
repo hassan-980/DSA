@@ -9,6 +9,7 @@ DSA in C++ Leetcode
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hassan-980/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/hassan-980/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hassan-980/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/hassan-980/DSA/tree/master/2169-simple-bank-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hassan-980/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hassan-980/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hassan-980/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -21,6 +22,7 @@ DSA in C++ Leetcode
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hassan-980/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/hassan-980/DSA/tree/master/1612-avoid-flood-in-the-city) |
+| [2169-simple-bank-system](https://github.com/hassan-980/DSA/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/hassan-980/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hassan-980/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Binary Search
@@ -89,6 +91,7 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/hassan-980/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/hassan-980/DSA/tree/master/2169-simple-bank-system) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/hassan-980/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
@@ -110,4 +113,8 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/hassan-980/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/hassan-980/DSA/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
