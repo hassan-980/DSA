@@ -56,6 +56,7 @@ DSA in C++ Leetcode
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/hassan-980/DSA/tree/master/0007-reverse-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/hassan-980/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/hassan-980/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/hassan-980/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
