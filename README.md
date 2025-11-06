@@ -25,6 +25,7 @@ DSA in C++ Leetcode
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/hassan-980/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hassan-980/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ DSA in C++ Leetcode
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hassan-980/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hassan-980/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hassan-980/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +57,7 @@ DSA in C++ Leetcode
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/hassan-980/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hassan-980/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,4 +162,24 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hassan-980/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
