@@ -218,6 +218,7 @@ DSA in C++ Leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/hassan-980/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -239,4 +240,8 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/hassan-980/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/hassan-980/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
