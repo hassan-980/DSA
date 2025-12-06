@@ -34,6 +34,7 @@ DSA in C++ Leetcode
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hassan-980/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hassan-980/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hassan-980/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hassan-980/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/hassan-980/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -95,6 +96,7 @@ DSA in C++ Leetcode
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/hassan-980/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hassan-980/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/hassan-980/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hassan-980/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Math
@@ -126,6 +128,7 @@ DSA in C++ Leetcode
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/hassan-980/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hassan-980/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
@@ -183,6 +186,7 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hassan-980/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hassan-980/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hassan-980/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Number Theory
@@ -257,4 +261,12 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/hassan-980/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
