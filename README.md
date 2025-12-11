@@ -34,6 +34,7 @@ DSA in C++ Leetcode
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hassan-980/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hassan-980/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/hassan-980/DSA/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hassan-980/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hassan-980/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -61,6 +62,7 @@ DSA in C++ Leetcode
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/hassan-980/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hassan-980/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/hassan-980/DSA/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hassan-980/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/hassan-980/DSA/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hassan-980/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -177,6 +179,7 @@ DSA in C++ Leetcode
 | [2141-maximum-running-time-of-n-computers](https://github.com/hassan-980/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/hassan-980/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/hassan-980/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3531-count-covered-buildings](https://github.com/hassan-980/DSA/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/hassan-980/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hassan-980/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Simulation
