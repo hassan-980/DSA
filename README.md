@@ -37,6 +37,7 @@ DSA in C++ Leetcode
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hassan-980/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/hassan-980/DSA/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hassan-980/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/hassan-980/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hassan-980/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -145,6 +146,7 @@ DSA in C++ Leetcode
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/hassan-980/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/hassan-980/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hassan-980/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
@@ -262,6 +264,7 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/hassan-980/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hassan-980/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -287,6 +290,7 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/hassan-980/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/hassan-980/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Queue
 |  |
 | ------- |
