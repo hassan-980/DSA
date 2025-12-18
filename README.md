@@ -50,6 +50,7 @@ DSA in C++ Leetcode
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hassan-980/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/hassan-980/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hassan-980/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hassan-980/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hassan-980/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/hassan-980/DSA/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/hassan-980/DSA/tree/master/3863-power-grid-maintenance) |
@@ -110,6 +111,7 @@ DSA in C++ Leetcode
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/hassan-980/DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hassan-980/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hassan-980/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +219,7 @@ DSA in C++ Leetcode
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/hassan-980/DSA/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hassan-980/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/hassan-980/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Number Theory
 |  |
 | ------- |
