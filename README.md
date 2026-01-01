@@ -6,6 +6,7 @@ DSA in C++ Leetcode
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/hassan-980/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/hassan-980/DSA/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/hassan-980/DSA/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/hassan-980/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -135,6 +136,7 @@ DSA in C++ Leetcode
 | ------- |
 | [0007-reverse-integer](https://github.com/hassan-980/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hassan-980/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/hassan-980/DSA/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/hassan-980/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hassan-980/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
