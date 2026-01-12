@@ -7,6 +7,7 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/hassan-980/DSA/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/hassan-980/DSA/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/hassan-980/DSA/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/hassan-980/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -168,6 +169,7 @@ DSA in C++ Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/hassan-980/DSA/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/hassan-980/DSA/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hassan-980/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -292,6 +294,7 @@ DSA in C++ Leetcode
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/hassan-980/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hassan-980/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/hassan-980/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -303,11 +306,13 @@ DSA in C++ Leetcode
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hassan-980/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hassan-980/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hassan-980/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hassan-980/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
