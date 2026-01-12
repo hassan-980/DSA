@@ -19,6 +19,7 @@ DSA in C++ Leetcode
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/hassan-980/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hassan-980/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/hassan-980/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/hassan-980/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hassan-980/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/hassan-980/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/hassan-980/DSA/tree/master/1390-four-divisors) |
@@ -147,6 +148,7 @@ DSA in C++ Leetcode
 | [0066-plus-one](https://github.com/hassan-980/DSA/tree/master/0066-plus-one) |
 | [0840-magic-squares-in-grid](https://github.com/hassan-980/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/hassan-980/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/hassan-980/DSA/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/hassan-980/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/hassan-980/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -383,4 +385,8 @@ DSA in C++ Leetcode
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan-980/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan-980/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hassan-980/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/hassan-980/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
