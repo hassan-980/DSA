@@ -51,6 +51,7 @@ DSA in C++ Leetcode
 | [3432-count-partitions-with-even-sum-difference](https://github.com/hassan-980/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/hassan-980/DSA/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/hassan-980/DSA/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/hassan-980/DSA/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hassan-980/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hassan-980/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/hassan-980/DSA/tree/master/3531-count-covered-buildings) |
@@ -105,6 +106,7 @@ DSA in C++ Leetcode
 | [1970-last-day-where-you-can-still-cross](https://github.com/hassan-980/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/hassan-980/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/hassan-980/DSA/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/hassan-980/DSA/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/hassan-980/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/hassan-980/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Greedy
@@ -391,4 +393,12 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/hassan-980/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/hassan-980/DSA/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/hassan-980/DSA/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
