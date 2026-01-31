@@ -11,6 +11,7 @@ DSA in C++ Leetcode
 | [0118-pascals-triangle](https://github.com/hassan-980/DSA/tree/master/0118-pascals-triangle) |
 | [0474-ones-and-zeroes](https://github.com/hassan-980/DSA/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/hassan-980/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/hassan-980/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/hassan-980/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/hassan-980/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/hassan-980/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -113,6 +114,7 @@ DSA in C++ Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/hassan-980/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hassan-980/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hassan-980/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/hassan-980/DSA/tree/master/1612-avoid-flood-in-the-city) |
