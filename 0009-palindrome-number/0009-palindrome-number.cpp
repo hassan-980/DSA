@@ -1,23 +1,13 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        int temp , digit;
-        long long rev = 0;
-        if( x < 0 ){
-            return false;
+        long long dup = x, ans =0 ;
+        if(x< 0)return false;
+        while(dup != 0){
+            int digit = dup%10;
+            ans = ans*10 + digit;
+            dup = dup/10;
         }
-        temp = x;
-
-        while( temp>0 ){
-            int lastDigit = temp%10;
-            rev = rev*10 + lastDigit;
-            temp /= 10;
-        }
-
-        if( rev != x ){
-            return false;
-        }
-    return true;
-
+        return (ans == x)? true: false;
     }
 };
