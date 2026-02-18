@@ -239,6 +239,7 @@ DSA in C++ Leetcode
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hassan-980/DSA/tree/master/0125-valid-palindrome) |
 | [0474-ones-and-zeroes](https://github.com/hassan-980/DSA/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/hassan-980/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/hassan-980/DSA/tree/master/0756-pyramid-transition-matrix) |
@@ -441,5 +442,6 @@ DSA in C++ Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hassan-980/DSA/tree/master/0125-valid-palindrome) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hassan-980/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
