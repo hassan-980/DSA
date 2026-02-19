@@ -6,6 +6,7 @@ DSA in C++ Leetcode
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hassan-980/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/hassan-980/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/hassan-980/DSA/tree/master/0118-pascals-triangle) |
@@ -445,6 +446,7 @@ DSA in C++ Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hassan-980/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hassan-980/DSA/tree/master/0125-valid-palindrome) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hassan-980/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Recursion
