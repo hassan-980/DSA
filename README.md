@@ -10,6 +10,7 @@ DSA in C++ Leetcode
 | [0066-plus-one](https://github.com/hassan-980/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/hassan-980/DSA/tree/master/0118-pascals-triangle) |
+| [0283-move-zeroes](https://github.com/hassan-980/DSA/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/hassan-980/DSA/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/hassan-980/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hassan-980/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -448,6 +449,7 @@ DSA in C++ Leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hassan-980/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hassan-980/DSA/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/hassan-980/DSA/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/hassan-980/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Recursion
 |  |
