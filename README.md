@@ -10,6 +10,7 @@ DSA in C++ Leetcode
 | [0066-plus-one](https://github.com/hassan-980/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/hassan-980/DSA/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/hassan-980/DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hassan-980/DSA/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/hassan-980/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hassan-980/DSA/tree/master/0485-max-consecutive-ones) |
@@ -222,6 +223,7 @@ DSA in C++ Leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/hassan-980/DSA/tree/master/0136-single-number) |
 | [0756-pyramid-transition-matrix](https://github.com/hassan-980/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/hassan-980/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/hassan-980/DSA/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
