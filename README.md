@@ -6,6 +6,7 @@ DSA in C++ Leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hassan-980/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hassan-980/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/hassan-980/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
@@ -90,6 +91,7 @@ DSA in C++ Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hassan-980/DSA/tree/master/0001-two-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/hassan-980/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/hassan-980/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan-980/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
