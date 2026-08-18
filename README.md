@@ -7,6 +7,7 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hassan-980/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/hassan-980/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hassan-980/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/hassan-980/DSA/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
@@ -133,6 +134,7 @@ DSA in C++ Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hassan-980/DSA/tree/master/0011-container-with-most-water) |
 | [0759-set-intersection-size-at-least-two](https://github.com/hassan-980/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/hassan-980/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/hassan-980/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -452,6 +454,7 @@ DSA in C++ Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/hassan-980/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hassan-980/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/hassan-980/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/hassan-980/DSA/tree/master/0283-move-zeroes) |
