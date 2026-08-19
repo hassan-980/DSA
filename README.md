@@ -358,6 +358,7 @@ DSA in C++ Leetcode
 | ------- |
 | [0020-valid-parentheses](https://github.com/hassan-980/DSA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/hassan-980/DSA/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hassan-980/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/hassan-980/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/hassan-980/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -374,6 +375,7 @@ DSA in C++ Leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hassan-980/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan-980/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan-980/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hassan-980/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -414,6 +416,7 @@ DSA in C++ Leetcode
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hassan-980/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan-980/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan-980/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hassan-980/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -434,6 +437,7 @@ DSA in C++ Leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hassan-980/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan-980/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/hassan-980/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/hassan-980/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
