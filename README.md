@@ -14,6 +14,7 @@ DSA in C++ Leetcode
 | [0118-pascals-triangle](https://github.com/hassan-980/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hassan-980/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hassan-980/DSA/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/hassan-980/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/hassan-980/DSA/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/hassan-980/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hassan-980/DSA/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@ DSA in C++ Leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hassan-980/DSA/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/hassan-980/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/hassan-980/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/hassan-980/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/hassan-980/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -311,6 +313,7 @@ DSA in C++ Leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/hassan-980/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hassan-980/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/hassan-980/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/hassan-980/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
