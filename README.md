@@ -17,6 +17,7 @@ DSA in C++ Leetcode
 | [0283-move-zeroes](https://github.com/hassan-980/DSA/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/hassan-980/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/hassan-980/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/hassan-980/DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/hassan-980/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hassan-980/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/hassan-980/DSA/tree/master/0759-set-intersection-size-at-least-two) |
@@ -123,6 +124,7 @@ DSA in C++ Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/hassan-980/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hassan-980/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/hassan-980/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hassan-980/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
